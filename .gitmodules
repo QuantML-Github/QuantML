@@ -1,0 +1,3 @@
+[submodule "TSFpaper"]
+	path = TSFpaper
+	url = https://github.com/ddz16/TSFpaper.git
