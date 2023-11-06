@@ -4,7 +4,7 @@
 
 本项目目前包括：
 
-1. Awesome Time Series Forecasting/Prediction Papers ![TSFpaper](https://github.com/ddz16/TSFpaper/tree/a4e106b9579d49ba55370e70935e9acff467120a) 
+1. Awesome Time Series Forecasting/Prediction Papers [TSFpaper](https://github.com/ddz16/TSFpaper/tree/a4e106b9579d49ba55370e70935e9acff467120a) 
 
 UPDATING...
 
