@@ -2,9 +2,13 @@
 
 欢迎加入机器学习&量化学术交流群
 
-<!-- ![wechat](wechat.jpg) -->
+本项目目前包括：
+
+1. Awesome Time Series Forecasting/Prediction Papers ![](https://github.com/ddz16/TSFpaper/tree/a4e106b9579d49ba55370e70935e9acff467120a) 
+
+UPDATING...
 
 
 <div align="left">
-	<img src="wechat.jpg" width="10%">
+	<img src="wechat.jpg" width="30%">
 </div>
