@@ -6,6 +6,8 @@
 
 1. Awesome Time Series Forecasting/Prediction Papers [TSFpaper](https://github.com/ddz16/TSFpaper/tree/a4e106b9579d49ba55370e70935e9acff467120a) 
 
+2. Awesome-quant [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
+
 UPDATING...
 
 
