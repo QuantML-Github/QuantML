@@ -8,6 +8,8 @@
 
 2. Awesome-quant [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
 
+3. Awesome-quant(Chinese) [awesome-quant](https://github.com/thuquant/awesome-quant)
+
 UPDATING...
 
 
