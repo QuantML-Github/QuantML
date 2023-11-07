@@ -1,3 +1,6 @@
 [submodule "TSFpaper"]
 	path = TSFpaper
 	url = https://github.com/ddz16/TSFpaper.git
+[submodule "awesome-quant"]
+	path = awesome-quant
+	url = https://github.com/wilsonfreitas/awesome-quant.git
