@@ -4,3 +4,6 @@
 [submodule "awesome-quant"]
 	path = awesome-quant
 	url = https://github.com/wilsonfreitas/awesome-quant.git
+[submodule "awesome-quant-chinese"]
+	path = awesome-quant-chinese
+	url = https://github.com/thuquant/awesome-quant
