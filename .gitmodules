@@ -1,0 +1,9 @@
+[submodule "papers/TSFpaper"]
+	path = papers/TSFpaper
+	url = https://github.com/ddz16/TSFpaper
+[submodule "quant_resources/aewsome-quant"]
+	path = quant_resources/aewsome-quant
+	url = https://github.com/wilsonfreitas/awesome-quant
+[submodule "quant_resources/awesome-quant-chinese"]
+	path = quant_resources/awesome-quant-chinese
+	url = https://github.com/thuquant/awesome-quant
