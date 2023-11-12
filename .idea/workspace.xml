@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af876824-2447-4f58-af10-a88b05debe5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/papers/wechat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papers/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papers/time-series-ptms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papers/transformer-ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quant_resources/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/wechat.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +48,7 @@
       <workItem from="1699763998194" duration="710000" />
       <workItem from="1699766585063" duration="130000" />
       <workItem from="1699766721754" duration="107000" />
+      <workItem from="1699766836289" duration="531000" />
     </task>
     <servers />
   </component>

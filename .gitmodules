@@ -7,3 +7,9 @@
 [submodule "quant_resources/awesome-quant-chinese"]
 	path = quant_resources/awesome-quant-chinese
 	url = https://github.com/thuquant/awesome-quant
+[submodule "papers/time-series-ptms"]
+	path = papers/time-series-ptms
+	url = https://github.com/qianlima-lab/time-series-ptms
+[submodule "papers/transformer-ts"]
+	path = papers/transformer-ts
+	url = https://github.com/kashif/pytorch-transformer-ts
