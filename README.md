@@ -19,6 +19,8 @@
 
 - Pytorch Transformer based Time Series Models [transformer-ts](https://github.com/kashif/pytorch-transformer-ts)
 
+**MODEL ZOO**
+
 <br>
 UPDATING...<br>
 <br>
