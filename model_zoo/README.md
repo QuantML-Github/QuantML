@@ -38,6 +38,8 @@
 
 | Model Name                               | Paper   | Type | IC          | ICIR        | Annualized Return | Information Ratio | Max Drawdown | Alpha | Information Ratio(alpha) | Max Drawdown(alpha) | PLOT | 
 |------------------------------------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
+|LSTM|
+|GRU|
 |DA-RNN|[LINK](https://www.ijcai.org/Proceedings/2017/0366.pdf)| LSTM+TRANS| 0.06753 | 5.59841| 19.21% | 1.11488 | 26.43% | 23.12% | 2.71108 | 7.87% | [LINK](./PLOT/backtest_result_alstm_single_d5_top400_drop400_alpha360.html) | 
 |Transformer|
 |Informer|
