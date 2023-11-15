@@ -31,7 +31,7 @@
 |CATBOOST| [LINK](https://proceedings.neurips.cc/paper/2018/file/14491b756b3a51daac41c24863285549-Paper.pdf)| TREE |  0.07899| 4.86365| 9.65% | 0.57736 | 30.68% | 13.46% | 1.62153 | 12.30% | [LINK](./PLOT/backtest_result_catboost_single_d5_top400_drop400_alpha360.html)
 |XGBOOST|
 |LGBM|
-|DoubleEnsemble|
+|DoubleEnsemble|[LINK]|TREE| 0.07555|4.30537|
 
 
 #### 时序模型
@@ -39,7 +39,7 @@
 | Model Name                               | Paper   | Type | IC          | ICIR        | Annualized Return | Information Ratio | Max Drawdown | Alpha | Information Ratio(alpha) | Max Drawdown(alpha) | PLOT | 
 |------------------------------------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
 |LSTM|
-|GRU|
+|GRU|[LINK]|RNN| 0.079137| 7.82825| 14.64% | 0.84717 | 27.88% | 18.64% | 1.68949 | 9.35% |  [LINK](./PLOT/backtest_result_gru_single_d5_top400_drop400_alpha360.html)|
 |DA-RNN|[LINK](https://www.ijcai.org/Proceedings/2017/0366.pdf)| LSTM+TRANS| 0.06753 | 5.59841| 19.21% | 1.11488 | 26.43% | 23.12% | 2.71108 | 7.87% | [LINK](./PLOT/backtest_result_alstm_single_d5_top400_drop400_alpha360.html) | 
 |Transformer|
 |Informer|
