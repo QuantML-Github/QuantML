@@ -42,7 +42,7 @@
 |GRU|[LINK]()|RNN| 0.07913| 7.82825| 22.11% | 1.21610 | 24.93% | 26.20% | 2.16575 | 9.15% |  [PLOT](./PLOT/backtest_result_gru_single_d5_top400_drop400_alpha360.html)|
 |DA-RNN|[LINK](https://www.ijcai.org/Proceedings/2017/0366.pdf)| LSTM+TRANS| 0.09456 | 8.28988| 22.17% | 1.19277 | 26.22% | 26.31% | 2.10914 | 9.20% | [PLOT](./PLOT/backtest_result_alstm_single_d5_top400_drop400_alpha360.html) | 
 |TCN|[LINK]()|CNN|0.09114|7.57064|16.95%|0.94854|26.44%|20.92%|1.70229|10.09%|[PLOT](./PLOT/backtest_result_tcn_single_d5_top400_drop400_alpha360.html)|
-|Transformer|
+|Transformer|[LINK]()|TRANS|0.08938|6.94548|18.27%|1.02255|25.98%|22.05%|1.66291|11.42%|[PLOT](./PLOT/backtest_result_transformer_single_d5_top400_drop400_alpha360.html)|
 |Informer|
 |Autoformer|
 |LTSF-Linear|
