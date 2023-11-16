@@ -36,9 +36,9 @@
 
 | Model Name                               | Paper   | Type | IC          | ICIR        | Annualized Return | Information Ratio | Max Drawdown | Alpha | Information Ratio(alpha) | Max Drawdown(alpha) | PLOT | 
 |------------------------------------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
-|LSTM|[LINK]|RNN|0.09774|8.10504|24.60%|1.26978|26.16%|28.84%|2.15556|10.41%|[PLOT](./PLOT/backtest_result_lstm_single_d5_top400_drop400_alpha360.html)|
-|GRU|[LINK]|RNN| 0.07913| 7.82825| 14.64% | 0.84717 | 27.88% | 18.64% | 1.68949 | 9.35% |  [PLOT](./PLOT/backtest_result_gru_single_d5_top400_drop400_alpha360.html)|
-|DA-RNN|[LINK](https://www.ijcai.org/Proceedings/2017/0366.pdf)| LSTM+TRANS| 0.06753 | 5.59841| 19.21% | 1.11488 | 26.43% | 23.12% | 2.71108 | 7.87% | [PLOT](./PLOT/backtest_result_alstm_single_d5_top400_drop400_alpha360.html) | 
+|LSTM|[LINK]|RNN|0.09134|7.47619|17.93%|0.96085|29.32%|22.01%|1.68747|12.28%|[PLOT](./PLOT/backtest_result_lstm_single_d5_top400_drop400_alpha360.html)|
+|GRU|[LINK]|RNN| 0.08819| 7.85512| 22.11% | 1.21610 | 24.93% | 26.20% | 2.16575 | 9.15% |  [PLOT](./PLOT/backtest_result_gru_single_d5_top400_drop400_alpha360.html)|
+|DA-RNN|[LINK](https://www.ijcai.org/Proceedings/2017/0366.pdf)| LSTM+TRANS| 0.09456 | 8.28988| 22.17% | 1.19277 | 26.22% | 26.31% | 2.10914 | 9.20% | [PLOT](./PLOT/backtest_result_alstm_single_d5_top400_drop400_alpha360.html) | 
 |Transformer|
 |Informer|
 |Autoformer|
