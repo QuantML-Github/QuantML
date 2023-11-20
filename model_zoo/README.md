@@ -47,7 +47,8 @@
 |Localformer|[LINK](https://arxiv.org/abs/2202.10240)|TRANS|0.09066|6.47978|17.55%|1.01227|25.91%|21.24%|1.62241|10.72%|[PLOT](./PLOT/backtest_result_localformer_single_d5_top400_drop400_alpha360.html)|
 |Informer|[LINK](https://arxiv.org/abs/2012.07436)|TRANS|0.00702|1.69430|3.93%|0.30673|28.63%|7.59%|0.75850|13.03%|[PLOT](./PLOT/backtest_result_informer_single_d5_top400_drop400_alpha360.html)|
 |Autoformer|[LINK](https://arxiv.org/abs/2106.13008)|TRANS| 0.04984|4.36314|9.99%|0.65911|24.41%|13.34%|1.12588|11.77%|[PLOT](./PLOT/backtest_result_autoformer_single_d5_top400_drop400_alpha360.html)|
-|PatchTST|[LINK](https://arxiv.org/abs/2211.14730)|TRANS|0.0050|0.82580|3.96%|0.30926|27.72%|7.58%|0.75946|11.17%|[PLOT](./PLOT/backtest_result_patchtst_single_d5_top400_drop400_alpha360.html)|
+|PatchTST|[LINK](https://arxiv.org/abs/2211.14730)|TRANS|0.00500|0.82580|3.96%|0.30926|27.72%|7.58%|0.75946|11.17%|[PLOT](./PLOT/backtest_result_patchtst_single_d5_top400_drop400_alpha360.html)|
+|iTransformer|[LINK](https://arxiv.org/abs/2310.06625)|TRANS| 0.04645|2.80729|9.20%|0.63440|21.66%|12.38%|1.03928|12.12%|[PLOT](./PLOT/backtest_result_itransformer_single_d5_top400_drop400_alpha360.html)
 |DLinear|[LINK](https://arxiv.org/abs/2205.13504)|MLP|0.06246|3.47573|13.90%|0.92929|20.35%|17.11%|1.39859|9.80%|[PLOT](./PLOT/backtest_result_dlinear_single_d5_top400_drop400_alpha360.html)|
 |TiDE|[LINK](https://arxiv.org/abs/2304.08424)|MLP|-0.0447|-2.39685|-16.25%|-0.60535|43.30%|-12.94%|-0.74022|34.66%|[PLOT](./PLOT/backtest_result_tide_single_d5_top400_drop400_alpha360.html)|
 |TiDGE|[LINK](https://arxiv.org/abs/2304.08424)|RNN+MLP|0.04695|3.83880|2.13%|0.21000|33.73%|5.86%|0.54744|12.41%|[PLOT](./PLOT/backtest_result_tidge_single_d5_top400_drop400_alpha360.html)
