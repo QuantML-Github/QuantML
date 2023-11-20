@@ -1,5 +1,9 @@
 # 机器学习&量化学术交流
 
+{% raw %}
+  In Handlebars, {{ this }} will be HTML-escaped, but {{{ that }}} will not.
+{% endraw %}
+
 欢迎加入机器学习&量化学术交流群
 
 本项目目前包括：
@@ -19,7 +23,10 @@
 
 - Pytorch Transformer based Time Series Models [transformer-ts](https://github.com/kashif/pytorch-transformer-ts)
 
-**MODEL ZOO**
+
+<BR>
+
+## **MODEL ZOO**
 
 #### 截面模型
 
@@ -31,6 +38,7 @@
 |DoubleEnsemble|[LINK](https://arxiv.org/pdf/2010.01265.pdf)|TREE| 0.07555|4.30537|6.13%|0.39556|34.53%|10.00%|0.78544|14.05%|[PLOT](./PLOT/backtest_result_doubleensemble_single_d5_top400_drop400_alpha360.html)|
 |MLP|[LINK]()|MLP|0.07093|6.27798|13.44%|0.83009|20.08%|17.02%|1.44013|10.59%|[PLOT](./PLOT/backtest_result_mlp_single_d5_top400_drop400_alpha360.html)|
 
+<BR>
 
 #### 时序模型
 
@@ -44,14 +52,17 @@
 |Localformer|[LINK](https://arxiv.org/abs/2202.10240)|TRANS|0.09066|6.47978|17.55%|1.01227|25.91%|21.24%|1.62241|10.72%|[PLOT](./PLOT/backtest_result_localformer_single_d5_top400_drop400_alpha360.html)|
 |Informer|[LINK](https://arxiv.org/abs/2012.07436)|TRANS|0.00702|1.69430|3.93%|0.30673|28.63%|7.59%|0.75850|13.03%|[PLOT](./PLOT/backtest_result_informer_single_d5_top400_drop400_alpha360.html)|
 |Autoformer|[LINK](https://arxiv.org/abs/2106.13008)|TRANS| 0.04984|4.36314|9.99%|0.65911|24.41%|13.34%|1.12588|11.77%|[PLOT](./PLOT/backtest_result_autoformer_single_d5_top400_drop400_alpha360.html)|
-|TiDE|[LINK]()|MLP|-0.0447|-2.39685|-16.25%|-0.60535|43.30%|-12.94%|-0.74022|34.66%|[PLOT](./PLOT/backtest_result_tide_single_d5_top400_drop400_alpha360.html)|
-|TiDGE|[LINK]()|RNN+MLP|0.04695|3.83880|2.13%|0.21000|33.73%|5.86%|0.54744|12.41%|[PLOT](./PLOT/backtest_result_tidge_single_d5_top400_drop400_alpha360.html)
 |PatchTST|[LINK](https://arxiv.org/abs/2211.14730)|TRANS|0.0050|0.82580|3.96%|0.30926|27.72%|7.58%|0.75946|11.17%|[PLOT](./PLOT/backtest_result_patchtst_single_d5_top400_drop400_alpha360.html)|
+|DLinear|[LINK](https://arxiv.org/abs/2205.13504)|MLP|0.06246|3.47573|13.90%|0.92929|20.35%|17.11%|1.39859|9.80%|[PLOT](./PLOT/backtest_result_dlinear_single_d5_top400_drop400_alpha360.html)|
+|TiDE|[LINK](https://arxiv.org/abs/2304.08424)|MLP|-0.0447|-2.39685|-16.25%|-0.60535|43.30%|-12.94%|-0.74022|34.66%|[PLOT](./PLOT/backtest_result_tide_single_d5_top400_drop400_alpha360.html)|
+|TiDGE|[LINK](https://arxiv.org/abs/2304.08424)|RNN+MLP|0.04695|3.83880|2.13%|0.21000|33.73%|5.86%|0.54744|12.41%|[PLOT](./PLOT/backtest_result_tidge_single_d5_top400_drop400_alpha360.html)
 
 
-**FACTOR ZOO**
+<BR>
 
-## 量价因子
+## **FACTOR ZOO**
+
+#### 量价因子
 
 | FACTOR   | 表达式   | IC均值        | ICIR        | IC>0占比 | \|IC\|>0.03占比 |多头组年化收益 | 多空年化收益 | 
 |------------------------------------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
