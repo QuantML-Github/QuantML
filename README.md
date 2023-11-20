@@ -1,9 +1,5 @@
 # 机器学习&量化学术交流
 
-{% raw %}
-  In Handlebars, {{ this }} will be HTML-escaped, but {{{ that }}} will not.
-{% endraw %}
-
 欢迎加入机器学习&量化学术交流群
 
 本项目目前包括：
