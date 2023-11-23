@@ -33,7 +33,6 @@
 |DoubleEnsemble|[LINK](https://arxiv.org/pdf/2010.01265.pdf)|TREE| 0.07555|4.30537|6.13%|0.39556|34.53%|10.00%|0.78544|14.05%|[PLOT](./PLOT/backtest_result_doubleensemble_single_d5_top400_drop400_alpha360.html)|
 |MLP|[LINK]()|MLP|0.07093|6.27798|13.44%|0.83009|20.08%|17.02%|1.44013|10.59%|[PLOT](./PLOT/backtest_result_mlp_single_d5_top400_drop400_alpha360.html)|
 
-<BR>
 
 #### 时序模型
 
@@ -54,13 +53,21 @@
 |TiDGE|[LINK](https://arxiv.org/abs/2304.08424)|RNN+MLP|0.04695|3.83880|2.13%|0.21000|33.73%|5.86%|0.54744|12.41%|[PLOT](./PLOT/backtest_result_tidge_single_d5_top400_drop400_alpha360.html)
 
 
+#### **Meta Learning**
 
+| Model Name                               | Paper   | Type | IC          | ICIR        | Annualized Return | Information Ratio | Max Drawdown | Alpha | Information Ratio(alpha) | Max Drawdown(alpha) | PLOT | 
+|------------------------------------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
+|DDG-DA(Linear)|[LINK](https://arxiv.org/abs/2201.04038)|LINEAR|0.09093|5.72298|8.64%|0.56213|25.90%|12.04%|0.97114|13.24%|[PLOT](./PLOT/backtest_result_ddgda-linear_single_d5_top400_drop400_alpha360.html)|
+
+<BR>
+
+***
 
 ### CONFIG:
 
 - 框架: [QLIB](https://github.com/microsoft/qlib/tree/main)
 
-- 因子: ALPHA158
+- 因子: <font color=Gray>Alpha158</font>
 
 - 股票池： 全A
 
