@@ -9,6 +9,9 @@
 
 - Awesome-quant(Chinese) [awesome-quant](https://github.com/thuquant/awesome-quant)<br>
 
+-Time-Series Works and Conferences [Time-Series-Works-Conferences
+](https://github.com/lixus7/Time-Series-Works-Conferences)
+
 
 **PAPERS AND MODELS**:
 
