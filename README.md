@@ -23,6 +23,7 @@
 
 - Pytorch Transformer based Time Series Models [transformer-ts](https://github.com/kashif/pytorch-transformer-ts)
 
+- Generating Synergistic Formulaic Alpha Collections via Reinforcement Learning [alphagen](https://github.com/RL-MLDM/alphagen)
 
 <BR>
 
