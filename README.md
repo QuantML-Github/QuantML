@@ -13,6 +13,7 @@
 ](https://github.com/lixus7/Time-Series-Works-Conferences)
 
 
+
 **PAPERS AND MODELS**:
 
 - DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation [DDG-DA](https://arxiv.org/abs/2201.04038)
@@ -24,6 +25,8 @@
 - Pytorch Transformer based Time Series Models [transformer-ts](https://github.com/kashif/pytorch-transformer-ts)
 
 - Generating Synergistic Formulaic Alpha Collections via Reinforcement Learning [alphagen](https://github.com/RL-MLDM/alphagen)
+
+- Time Series Library [TSlib](https://github.com/thuml/Time-Series-Library/tree/main)
 
 <BR>
 
