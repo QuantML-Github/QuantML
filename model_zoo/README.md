@@ -43,6 +43,7 @@
 |DA-RNN|[LINK](https://www.ijcai.org/Proceedings/2017/0366.pdf)|RNN+Attn| **0.09456** | **8.28988**| **22.17%** | 1.19277 | 26.22% | 26.31% | 2.10914 | 9.20% | [PLOT](./PLOT/backtest_result_alstm_single_d5_top400_drop400_alpha360.html) | 
 |TRA|[LINK]()|RNN|0.08400|8.10454|13.79%|0.81530|26.77%|17.71%|1.62311|8.99%|[PLOT](./PLOT/backtest_result_tra_single_d5_top400_drop400_alpha360.html) | 
 |TCN|[LINK](https://arxiv.org/abs/1803.01271)|CNN|0.09114|7.57064|16.95%|0.94854|26.44%|20.92%|1.70229|10.09%|[PLOT](./PLOT/backtest_result_tcn_single_d5_top400_drop400_alpha360.html)|
+|TimesNet|[LINK]()|CNN|0.05622|3.67216|14.85%|0.95159|23.21%|18.23%|1.50865|11.08%|[PLOT](./PLOT/backtest_result_timesnet_single_d5_top400_drop400_alpha360.html)|
 |Transformer|[LINK](https://arxiv.org/abs/1706.03762)|Attn|0.08938|6.94548|18.27%|1.02255|25.98%|22.05%|1.66291|11.42%|[PLOT](./PLOT/backtest_result_transformer_single_d5_top400_drop400_alpha360.html)|
 |Localformer|[LINK](https://arxiv.org/abs/2202.10240)|Attn|0.09066|6.47978|17.55%|1.01227|25.91%|21.24%|1.62241|10.72%|[PLOT](./PLOT/backtest_result_localformer_single_d5_top400_drop400_alpha360.html)|
 |Informer|[LINK](https://arxiv.org/abs/2012.07436)|Attn+CNN|0.00702|1.69430|3.93%|0.30673|28.63%|7.59%|0.75850|13.03%|[PLOT](./PLOT/backtest_result_informer_single_d5_top400_drop400_alpha360.html)|
