@@ -20,6 +20,8 @@
 
 - Awesome Time Series Forecasting/Prediction Papers [TSFpaper](https://github.com/ddz16/TSFpaper/tree/a4e106b9579d49ba55370e70935e9acff467120a) 
 
+- Temporal 2D-Variation Modeling for General Time Series Analysis [TimesNet](extension://oikmahiipjniocckomdccmplodldodja/pdf-viewer/web/viewer.html?file=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3Dju_Uqw384Oq)
+
 - A Survey on Time-Series Pre-Trained Models [time-series-ptms](https://github.com/qianlima-lab/time-series-ptms)
 
 - Pytorch Transformer based Time Series Models [transformer-ts](https://github.com/kashif/pytorch-transformer-ts)
