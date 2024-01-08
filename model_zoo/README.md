@@ -53,6 +53,8 @@
 |DLinear|[LINK](https://arxiv.org/abs/2205.13504)|MLP|0.06246|3.47573|13.90%|0.92929|20.35%|17.11%|1.39859|9.80%|[PLOT](./PLOT/backtest_result_dlinear_single_d5_top400_drop400_alpha360.html)|
 |TiDE|[LINK](https://arxiv.org/abs/2304.08424)|MLP|-0.0447|-2.39685|-16.25%|-0.60535|43.30%|-12.94%|-0.74022|34.66%|[PLOT](./PLOT/backtest_result_tide_single_d5_top400_drop400_alpha360.html)|
 |TiDGE|[LINK](https://arxiv.org/abs/2304.08424)|RNN+MLP|0.04695|3.83880|2.13%|0.21000|33.73%|5.86%|0.54744|12.41%|[PLOT](./PLOT/backtest_result_tidge_single_d5_top400_drop400_alpha360.html)
+|PITS|[LINK](https://arxiv.org/abs/xxxxx)|MLP|0.04805|2.90522|13.39%|0.77905|21.82%|16.08%|1.28619|9.51%|[PLOT](./PLOT/backtest_result_pits_single_d5_top400_drop400_alpha360.html)
+
 
 
 #### **Meta Learning**
@@ -92,7 +94,7 @@
 |DA-RNN|[LINK](https://www.ijcai.org/Proceedings/2017/0366.pdf)|RNN| 0.10103 | 8.31038| 27.39% | 1.31741 | 27.97% | 31.70% | 2.02836 | 13.37% | [PLOT](./PLOT/backtest_result_alstm_single_d5_top400_drop400_alpha158.html) | 
 |TCN|[LINK](https://arxiv.org/abs/1803.01271)|CNN|0.08950|8.27738|21.36%|1.12395|26.38%|25.54%|1.96430|10.00%|[PLOT](./PLOT/backtest_result_tcn_single_d5_top400_drop400_alpha158.html)|
 |Transformer|[LINK](https://arxiv.org/abs/1706.03762)|Attn|0.09171|7.50230|28.53%|1.43050|23.91%|32.68%|2.16476|11.60%|[PLOT](./PLOT/backtest_result_transformer_single_d5_top400_drop400_alpha158.html)|
-|gFormer|[LINK]()|RNN+Attn|0.09340|7.3151|33.66%|1.42288|24.03%|36.86%|2.12846|12.48%|[PLOT](./PLOT/backtest_result_gformer_single_d5_top400_drop400_alpha158.html)|
+|gFormer|[LINK]()|RNN+Attn|0.90550|6.42847|37.17%|1.52404|23.60%|36.86%|2.24242|12.76%|[PLOT](./PLOT/backtest_result_gformer_single_d5_top400_drop400_alpha158.html)|
 
 
 
