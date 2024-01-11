@@ -41,9 +41,9 @@
 |LSTM|[LINK](https://direct.mit.edu/neco/article-abstract/9/8/1735/6109/Long-Short-Term-Memory?redirectedFrom=fulltext)|RNN|0.09134|7.47619|17.93%|0.96085|29.32%|22.01%|1.68747|12.28%|[PLOT](./PLOT/backtest_result_lstm_single_d5_top400_drop400_alpha360.html)|
 |GRU|[LINK](https://arxiv.org/pdf/1412.3555.pdf)|RNN| 0.07913| 7.82825| 22.11% | 1.21610 | 24.93% | 26.20% | 2.16575 | 9.15% |  [PLOT](./PLOT/backtest_result_gru_single_d5_top400_drop400_alpha360.html)|
 |DA-RNN|[LINK](https://www.ijcai.org/Proceedings/2017/0366.pdf)|RNN+Attn| **0.09456** | **8.28988**| **22.17%** | 1.19277 | 26.22% | 26.31% | 2.10914 | 9.20% | [PLOT](./PLOT/backtest_result_alstm_single_d5_top400_drop400_alpha360.html) | 
-|TRA|[LINK]()|RNN|0.08400|8.10454|13.79%|0.81530|26.77%|17.71%|1.62311|8.99%|[PLOT](./PLOT/backtest_result_tra_single_d5_top400_drop400_alpha360.html) | 
+|TRA|[LINK](https://arxiv.org/abs/2106.12950)|RNN|0.08400|8.10454|13.79%|0.81530|26.77%|17.71%|1.62311|8.99%|[PLOT](./PLOT/backtest_result_tra_single_d5_top400_drop400_alpha360.html) | 
 |TCN|[LINK](https://arxiv.org/abs/1803.01271)|CNN|0.09114|7.57064|16.95%|0.94854|26.44%|20.92%|1.70229|10.09%|[PLOT](./PLOT/backtest_result_tcn_single_d5_top400_drop400_alpha360.html)|
-|TimesNet|[LINK]()|CNN|0.05622|3.67216|14.85%|0.95159|23.21%|18.23%|1.50865|11.08%|[PLOT](./PLOT/backtest_result_timesnet_single_d5_top400_drop400_alpha360.html)|
+|TimesNet|[LINK](https://openreview.net/pdf?id=ju_Uqw384Oq)|CNN|0.05622|3.67216|14.85%|0.95159|23.21%|18.23%|1.50865|11.08%|[PLOT](./PLOT/backtest_result_timesnet_single_d5_top400_drop400_alpha360.html)|
 |Transformer|[LINK](https://arxiv.org/abs/1706.03762)|Attn|0.08938|6.94548|18.27%|1.02255|25.98%|22.05%|1.66291|11.42%|[PLOT](./PLOT/backtest_result_transformer_single_d5_top400_drop400_alpha360.html)|
 |Localformer|[LINK](https://arxiv.org/abs/2202.10240)|Attn|0.09066|6.47978|17.55%|1.01227|25.91%|21.24%|1.62241|10.72%|[PLOT](./PLOT/backtest_result_localformer_single_d5_top400_drop400_alpha360.html)|
 |Informer|[LINK](https://arxiv.org/abs/2012.07436)|Attn+CNN|0.00702|1.69430|3.93%|0.30673|28.63%|7.59%|0.75850|13.03%|[PLOT](./PLOT/backtest_result_informer_single_d5_top400_drop400_alpha360.html)|
@@ -53,7 +53,7 @@
 |DLinear|[LINK](https://arxiv.org/abs/2205.13504)|MLP|0.06246|3.47573|13.90%|0.92929|20.35%|17.11%|1.39859|9.80%|[PLOT](./PLOT/backtest_result_dlinear_single_d5_top400_drop400_alpha360.html)|
 |TiDE|[LINK](https://arxiv.org/abs/2304.08424)|MLP|-0.0447|-2.39685|-16.25%|-0.60535|43.30%|-12.94%|-0.74022|34.66%|[PLOT](./PLOT/backtest_result_tide_single_d5_top400_drop400_alpha360.html)|
 |TiDGE|[LINK](https://arxiv.org/abs/2304.08424)|RNN+MLP|0.04695|3.83880|2.13%|0.21000|33.73%|5.86%|0.54744|12.41%|[PLOT](./PLOT/backtest_result_tidge_single_d5_top400_drop400_alpha360.html)
-|PITS|[LINK](https://arxiv.org/abs/xxxxx)|MLP|0.04805|2.90522|13.39%|0.77905|21.82%|16.08%|1.28619|9.51%|[PLOT](./PLOT/backtest_result_pits_single_d5_top400_drop400_alpha360.html)
+|PITS|[LINK](https://arxiv.org/pdf/2312.16427.pdf)|MLP|0.04805|2.90522|13.39%|0.77905|21.82%|16.08%|1.28619|9.51%|[PLOT](./PLOT/backtest_result_pits_single_d5_top400_drop400_alpha360.html)
 
 
 
