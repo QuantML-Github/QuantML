@@ -94,8 +94,8 @@
 |DA-RNN|[LINK](https://www.ijcai.org/Proceedings/2017/0366.pdf)|RNN| 0.10103 | 8.31038| 27.39% | 1.31741 | 27.97% | 31.70% | 2.02836 | 13.37% | [PLOT](./PLOT/backtest_result_alstm_single_d5_top400_drop400_alpha158.html) | 
 |TCN|[LINK](https://arxiv.org/abs/1803.01271)|CNN|0.08950|8.27738|21.36%|1.12395|26.38%|25.54%|1.96430|10.00%|[PLOT](./PLOT/backtest_result_tcn_single_d5_top400_drop400_alpha158.html)|
 |Transformer|[LINK](https://arxiv.org/abs/1706.03762)|Attn|0.09171|7.50230|28.53%|1.43050|23.91%|32.68%|2.16476|11.60%|[PLOT](./PLOT/backtest_result_transformer_single_d5_top400_drop400_alpha158.html)|
-|gFormer|[LINK]()|RNN+Attn|0.09382|7.38986|37.17%|1.52404|23.60%|40.42%|2.24242|12.76%|[PLOT](./PLOT/backtest_result_gformer_single_d5_top400_drop400_alpha158.html)|
-
+|gFormer|[LINK]()|RNN+Attn|0.09340|7.31510|33.66%|1.42288|24.03%|36.86%|2.12846|12.48%|[PLOT](./PLOT/backtest_result_gformer_single_d5_top400_drop400_alpha158.html)|
+|gFormer-opt|[LINK]()|RNN+Attn|0.09382|7.38986|37.17%|1.52404|23.60%|40.42%|2.24242|12.76%|[PLOT](./PLOT/backtest_result_gformer_single_d5_top400_drop400_alpha158.html)|
 
 
 ## SELF-SUPERVISED PRE-TRAINED MODEL
