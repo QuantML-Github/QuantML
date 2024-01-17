@@ -9,12 +9,16 @@
 
 - Awesome-quant(Chinese) [awesome-quant](https://github.com/thuquant/awesome-quant)<br>
 
-- Time-Series Works and Conferences [Time-Series-Works-Conferences
-](https://github.com/lixus7/Time-Series-Works-Conferences)
+
 
 
 
 **PAPERS AND MODELS**:
+
+- Time-Series Works and Conferences [Time-Series-Works-Conferences
+](https://github.com/lixus7/Time-Series-Works-Conferences)
+
+- Time Series Library [TSlib](https://github.com/thuml/Time-Series-Library/tree/main)
 
 - DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation [DDG-DA](https://arxiv.org/abs/2201.04038)
 
@@ -28,7 +32,7 @@
 
 - Generating Synergistic Formulaic Alpha Collections via Reinforcement Learning [alphagen](https://github.com/RL-MLDM/alphagen)
 
-- Time Series Library [TSlib](https://github.com/thuml/Time-Series-Library/tree/main)
+- Awesome-GNN4TS [awesome-gnn4ts](https://github.com/KimMeen/Awesome-GNN4TS)
 
 <BR>
 
