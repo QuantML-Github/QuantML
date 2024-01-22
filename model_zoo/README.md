@@ -96,6 +96,7 @@
 |Transformer|[LINK](https://arxiv.org/abs/1706.03762)|Attn|0.09171|7.50230|28.53%|1.43050|23.91%|32.68%|2.16476|11.60%|[PLOT](./PLOT/backtest_result_transformer_single_d5_top400_drop400_alpha158.html)|
 |gFormer|[LINK]()|RNN+Attn|0.09340|7.31510|33.66%|1.42288|24.03%|36.86%|2.12846|12.48%|[PLOT](./PLOT/backtest_result_gformer_single_d5_top400_drop400_alpha158.html)|
 |gFormer-opt|[LINK]()|RNN+Attn|0.09382|7.38986|37.17%|1.52404|23.60%|40.42%|2.24242|12.76%|[PLOT](./PLOT/backtest_result_gformer_single_d5_top400_drop400_alpha158.html)|
+|gFormerMoEx5L|[LINK]()|RNN+Attn|0.09745|6.54406|37.32%|1.49430|24.44%|40.59%|2.14049|13.45%|[PLOT]()|
 
 
 ## SELF-SUPERVISED PRE-TRAINED MODEL
