@@ -54,6 +54,7 @@
 |TiDE|[LINK](https://arxiv.org/abs/2304.08424)|MLP|-0.0447|-2.39685|-16.25%|-0.60535|43.30%|-12.94%|-0.74022|34.66%|[PLOT](./PLOT/backtest_result_tide_single_d5_top400_drop400_alpha360.html)|
 |TiDGE|[LINK](https://arxiv.org/abs/2304.08424)|RNN+MLP|0.04695|3.83880|2.13%|0.21000|33.73%|5.86%|0.54744|12.41%|[PLOT](./PLOT/backtest_result_tidge_single_d5_top400_drop400_alpha360.html)
 |PITS|[LINK](https://arxiv.org/pdf/2312.16427.pdf)|MLP|0.04805|2.90522|13.39%|0.77905|21.82%|16.08%|1.28619|9.51%|[PLOT](./PLOT/backtest_result_pits_single_d5_top400_drop400_alpha360.html)
+|Mamba|[LINK](https://arxiv.org/abs/2211.14730)|Mamba|0.04397|2.09226|13.97%|0.82630|16.695%|16.697%| 1.17536|10.75%|[PLOT](./PLOT/backtest_result_mamba_single_d5_top400_drop400_alpha360.html)
 
 
 
