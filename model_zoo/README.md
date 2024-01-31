@@ -99,6 +99,7 @@
 |gFormer-opt|[LINK]()|RNN+Attn|0.09382|7.38986|37.17%|1.52404|23.60%|40.42%|2.24242|12.76%|[PLOT](./PLOT/backtest_result_gformer_single_d5_top400_drop400_alpha158.html)|
 |gFormerMoEx5L|[LINK]()|RNN+Attn|0.09745|6.54406|37.32%|1.49430|24.44%|40.59%|2.14049|13.45%|[PLOT]()|
 |gFormerMoEx5A|[LINK]()|RNN+Attn|0.09963|6.88065|36.24%|1.49982|23.68%|39.48%|2.14724|12.48%|[PLOT]()|
+|gMamba|[LINK]()|RNN+Mamba|0.08153|7.22315|27.14%|1.27485|22.83%|30.17%|2.08875|11.09%|[PLOT](./PLOT/backtest_result_all_gmamba_single_d5_top400_drop400_alpha158.html)|
 
 
 ## SELF-SUPERVISED PRE-TRAINED MODEL
