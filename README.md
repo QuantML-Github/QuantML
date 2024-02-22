@@ -58,8 +58,7 @@ UPDATING...<br>
 
 <br>
 <div align="left">
-	<img src="ML-Quant.jpg" width="25%">
- <BR>
- 	<img src="wechat.jpg" width="25%">
+	<img src="ML-Quant.jpg" width="50%" >
+ 	<img src="wechat.jpg" width="20.83%">
 	<!-- <img src="ML-Quant.jpg" width="25%"> -->
 </div>
