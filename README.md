@@ -44,6 +44,11 @@
 
 ## **FACTOR ZOO**
 
+<br>
+<div align="left">
+	<img src="factor_zoo/factorzoo架构.png" width="70%" >
+</div>
+
 #### 量价因子
 
 | FACTOR   | 表达式   | IC均值        | ICIR        | IC>0占比 | \|IC\|>0.03占比 |多头组年化收益 | 多空年化收益 | 
