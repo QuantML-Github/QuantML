@@ -2,7 +2,7 @@
 
 <br>
 <div align="left">
-	<img src="factorzoo架构.png" width="70%" >
+	<img src="factorzoo架构.png">
 </div>
 
 ## 量价因子
