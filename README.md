@@ -46,7 +46,7 @@
 
 
 
-[FACTOR ZOO 结果](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo)
+[量价因子](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs.md)
 
 
 <br>
