@@ -44,12 +44,7 @@
 
 ## **FACTOR ZOO**
 
-<br>
-<div align="left">
-	<img src="factor_zoo/factorzoo架构.png" >
-</div>
 
-#### 量价因子
 
 [FACTOR ZOO 结果](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo)
 
