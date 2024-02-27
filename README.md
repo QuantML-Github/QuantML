@@ -3,7 +3,22 @@
 
 本项目目前包括：
 
-**QUANT-RESOURCES**:
+
+## **MODEL ZOO**
+
+[MODEL ZOO 结果](https://github.com/chaosquant2022/ML-Quant/tree/main/model_zoo)
+
+<BR>
+
+## **FACTOR ZOO**
+
+
+[FACTOR  ZOO 量价因子结果](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs.md)
+
+<BR>
+
+
+## **QUANT-RESOURCES**:
 
 - Awesome-quant [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
 
@@ -11,9 +26,10 @@
 
 
 
+<BR>
 
 
-**PAPERS AND MODELS**:
+## **PAPERS AND MODELS**:
 
 - Time-Series Works and Conferences [Time-Series-Works-Conferences
 ](https://github.com/lixus7/Time-Series-Works-Conferences)
@@ -36,17 +52,7 @@
 
 <BR>
 
-## **MODEL ZOO**
 
-[MODEL ZOO 结果](https://github.com/chaosquant2022/ML-Quant/tree/main/model_zoo)
-
-<BR>
-
-## **FACTOR ZOO**
-
-
-
-[量价因子](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs.md)
 
 
 <br>
