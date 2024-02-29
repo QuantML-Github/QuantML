@@ -13,8 +13,8 @@
 ## **FACTOR ZOO**
 
 
-[FACTOR  ZOO 量价因子结果](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs.md)
-
+[FACTOR  ZOO 日内量价因子结果](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs.md)
+: TOTAL 947 FACTORS NOW 
 <BR>
 
 
