@@ -19,6 +19,13 @@
 <BR>
 
 
+## 知识星球 ## 
+
+[论文及代码发布地址](https://t.zsxq.com/179npRquk)
+
+<BR>
+
+
 ## **QUANT-RESOURCES**:
 
 - Awesome-quant [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
@@ -27,11 +34,6 @@
 
 <BR>
 
-## 知识星球 ## 
-
-[论文及代码发布地址](https://t.zsxq.com/179npRquk)
-
-<BR>
 
 
 ## **PAPERS AND MODELS**:
