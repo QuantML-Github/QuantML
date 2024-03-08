@@ -1,8 +1,9 @@
 # FACTOR ZOO
 
+Factor Zoo 架构
 <br>
 <div align="left">
-	<img src="factorzoo架构.png">
+	<img src="factorzoo架构.png"  width="50%" alt="factorzoo架构">
 </div>
 
 ## 量价因子
@@ -20,8 +21,6 @@
 - [流动性](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs_liquidity.md)
 - [量价相关系数](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs_corr.md)
 - [极值信息](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs_idx.md)
-
-因子分析详见知识星球
 
 ## 基本面因子
 
