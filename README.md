@@ -21,7 +21,7 @@
 
 ## 知识星球 ## 
 
-[论文及代码发布地址](https://t.zsxq.com/179npRquk)
+[模型，因子相关论文及代码发布地址](https://t.zsxq.com/179npRquk)
 
 <BR>
 
