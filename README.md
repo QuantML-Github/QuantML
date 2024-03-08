@@ -13,8 +13,19 @@
 ## **FACTOR ZOO**
 
 
-[FACTOR  ZOO 日内量价因子结果](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs.md)
+[FACTOR  ZOO](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo)
 : TOTAL 1049 FACTORS NOW 
+
+[量价因子](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs.md)
+
+- [振幅](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs_amplitude.md)
+- [标准差](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs_std.md)
+- [高阶矩](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs_higher_moment.md)
+- [成交占比](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs_turnover.md)
+- [流动性](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs_liquidity.md)
+- [量价相关系数](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs_corr.md)
+- [极值信息](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs_idx.md)
+
 
 <BR>
 
