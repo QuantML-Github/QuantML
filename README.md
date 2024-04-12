@@ -68,6 +68,8 @@
 
 - Awesome-GNN4TS [awesome-gnn4ts](https://github.com/KimMeen/Awesome-GNN4TS)
 
+- MASTER: Market-Guided Stock Transformer for Stock Price Forecasting [MASTER](https://github.com/SJTU-Quant/MASTER)
+
 <BR>
 
 
