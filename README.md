@@ -25,7 +25,8 @@
 - [流动性](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs_liquidity.md)
 - [量价相关系数](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs_corr.md)
 - [极值信息](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/runs_idx.md)
-
+<BR>
+- [券商因子复现](https://github.com/chaosquant2022/ML-Quant/tree/main/factor_zoo/券商因子IC.md)
 
 <BR>
 
